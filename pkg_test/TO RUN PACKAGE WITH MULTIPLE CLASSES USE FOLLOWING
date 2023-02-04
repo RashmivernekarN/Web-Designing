@@ -1,0 +1,27 @@
+TO RUN PACKAGE WITH MULTIPLE CLASSES USE FOLLOWING -->
+
+D:\>javac -d pkg_test emp.java
+
+D:\>javac -d pkg_test emp1.java
+
+D:\>javac -d pkg_test emp2.java
+
+D:\>cd pkg_test
+
+D:\pkg_test>javac employee.java
+
+D:\pkg_test>java employee
+we are in pkg1 class emp
+emp id=110
+basic=10000
+exit from class emp
+we are in pkg1 class emp1
+emp id=220
+basic=5000
+exit from class emp1
+we are in pkg1 class emp2
+emp id=330
+basic=20000
+exit from class emp2
+
+D:\pkg_test>
