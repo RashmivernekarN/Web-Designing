@@ -1,0 +1,22 @@
+p
+{
+     font-size:20px;
+     color:red;
+}
+h1,h2
+{
+    text-align:center;
+    background-color:yellow;
+     color:blue;
+}
+.abc
+{
+   font-family:Verdana;
+   font-size:20px;
+color:red;
+}
+#a1
+{
+    color:green;
+    text-align:right;
+}
